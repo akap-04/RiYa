@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/akap-04/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/akap-04/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akap-04/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/akap-04/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/akap-04/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/akap-04/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akap-04/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/akap-04/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/akap-04/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/akap-04/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/akap-04/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/akap-04/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/akap-04/leetcode/tree/master/0485-max-consecutive-ones) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/akap-04/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/akap-04/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -64,11 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/akap-04/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/akap-04/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/akap-04/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/akap-04/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/akap-04/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/akap-04/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/akap-04/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/akap-04/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Divide and Conquer
 |  |
