@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/akap-04/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/akap-04/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0906-walking-robot-simulation](https://github.com/akap-04/leetcode/tree/master/0906-walking-robot-simulation) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/akap-04/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akap-04/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/akap-04/leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/akap-04/leetcode/tree/master/0242-valid-anagram) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/akap-04/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/akap-04/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Sorting
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/akap-04/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/akap-04/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/akap-04/leetcode/tree/master/0268-missing-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/akap-04/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/akap-04/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/akap-04/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/akap-04/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0906-walking-robot-simulation](https://github.com/akap-04/leetcode/tree/master/0906-walking-robot-simulation) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/akap-04/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/akap-04/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/akap-04/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/akap-04/leetcode/tree/master/2155-find-missing-observations) |
@@ -95,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akap-04/leetcode/tree/master/0169-majority-element) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/akap-04/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
