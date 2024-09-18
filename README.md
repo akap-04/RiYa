@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akap-04/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/akap-04/leetcode/tree/master/0013-roman-to-integer) |
+| [0179-largest-number](https://github.com/akap-04/leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/akap-04/leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/akap-04/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0539-minimum-time-difference](https://github.com/akap-04/leetcode/tree/master/0539-minimum-time-difference) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/akap-04/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/akap-04/leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/akap-04/leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/akap-04/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akap-04/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/akap-04/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akap-04/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/akap-04/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/akap-04/leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/akap-04/leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/akap-04/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/akap-04/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/akap-04/leetcode/tree/master/0283-move-zeroes) |
@@ -197,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/akap-04/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/akap-04/leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
