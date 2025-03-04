@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/akap-04/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/akap-04/leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/akap-04/leetcode/tree/master/0539-minimum-time-difference) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/akap-04/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2155-find-missing-observations](https://github.com/akap-04/leetcode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/akap-04/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Bit Manipulation
