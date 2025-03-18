@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/akap-04/leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/akap-04/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/akap-04/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/akap-04/leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/akap-04/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akap-04/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/akap-04/leetcode/tree/master/0136-single-number) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/akap-04/leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/akap-04/leetcode/tree/master/0258-add-digits) |
 | [0906-walking-robot-simulation](https://github.com/akap-04/leetcode/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/akap-04/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/akap-04/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/akap-04/leetcode/tree/master/0054-spiral-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/akap-04/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/akap-04/leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Prefix Sum
