@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/akap-04/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/akap-04/leetcode/tree/master/0386-lexicographical-numbers) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/akap-04/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/akap-04/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/akap-04/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/akap-04/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/akap-04/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Linked List
 |  |
 | ------- |
@@ -310,4 +312,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akap-04/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Union Find
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/akap-04/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+## Graph
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/akap-04/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
