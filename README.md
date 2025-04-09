@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/akap-04/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/akap-04/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/akap-04/leetcode/tree/master/0432-all-oone-data-structure) |
+| [0496-next-greater-element-i](https://github.com/akap-04/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/akap-04/leetcode/tree/master/0500-keyboard-row) |
 | [0768-partition-labels](https://github.com/akap-04/leetcode/tree/master/0768-partition-labels) |
 | [0906-walking-robot-simulation](https://github.com/akap-04/leetcode/tree/master/0906-walking-robot-simulation) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/akap-04/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/akap-04/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/akap-04/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/akap-04/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/akap-04/leetcode/tree/master/0500-keyboard-row) |
 | [0539-minimum-time-difference](https://github.com/akap-04/leetcode/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/akap-04/leetcode/tree/master/0729-my-calendar-i) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/akap-04/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akap-04/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/akap-04/leetcode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/akap-04/leetcode/tree/master/0496-next-greater-element-i) |
 | [1002-maximum-width-ramp](https://github.com/akap-04/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/akap-04/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/akap-04/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/akap-04/leetcode/tree/master/0496-next-greater-element-i) |
 | [1002-maximum-width-ramp](https://github.com/akap-04/leetcode/tree/master/1002-maximum-width-ramp) |
 | [3001-apply-operations-to-maximize-score](https://github.com/akap-04/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Heap (Priority Queue)
