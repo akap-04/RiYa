@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/akap-04/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/akap-04/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/akap-04/leetcode/tree/master/0500-keyboard-row) |
+| [0503-next-greater-element-ii](https://github.com/akap-04/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/akap-04/leetcode/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/akap-04/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/akap-04/leetcode/tree/master/0731-my-calendar-ii) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/akap-04/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/akap-04/leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/akap-04/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/akap-04/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1002-maximum-width-ramp](https://github.com/akap-04/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/akap-04/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/akap-04/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/akap-04/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/akap-04/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1002-maximum-width-ramp](https://github.com/akap-04/leetcode/tree/master/1002-maximum-width-ramp) |
 | [3001-apply-operations-to-maximize-score](https://github.com/akap-04/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Heap (Priority Queue)
