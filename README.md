@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/akap-04/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/akap-04/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/akap-04/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/akap-04/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/akap-04/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Sorting
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/akap-04/leetcode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/akap-04/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/akap-04/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/akap-04/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/akap-04/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/akap-04/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2755-extra-characters-in-a-string](https://github.com/akap-04/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/akap-04/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Simulation
 |  |
 | ------- |
