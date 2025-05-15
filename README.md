@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/akap-04/leetcode/tree/master/0500-keyboard-row) |
 | [0768-partition-labels](https://github.com/akap-04/leetcode/tree/master/0768-partition-labels) |
 | [0906-walking-robot-simulation](https://github.com/akap-04/leetcode/tree/master/0906-walking-robot-simulation) |
+| [0966-binary-subarrays-with-sum](https://github.com/akap-04/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/akap-04/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/akap-04/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/akap-04/leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/akap-04/leetcode/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/akap-04/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/akap-04/leetcode/tree/master/0907-koko-eating-bananas) |
+| [0966-binary-subarrays-with-sum](https://github.com/akap-04/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1002-maximum-width-ramp](https://github.com/akap-04/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1046-max-consecutive-ones-iii](https://github.com/akap-04/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/akap-04/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/akap-04/leetcode/tree/master/0731-my-calendar-ii) |
+| [0966-binary-subarrays-with-sum](https://github.com/akap-04/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/akap-04/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/akap-04/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/akap-04/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akap-04/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/akap-04/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/akap-04/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/akap-04/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Brainteaser
 |  |
