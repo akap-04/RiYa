@@ -11,14 +11,21 @@
  */
 class Solution {
 public:
-    vector<int> num={};
-    vector<int> postorderTraversal(TreeNode* root) {
-        if (root==nullptr)
-            return num;
-        postorderTraversal(root->left);
-        postorderTraversal(root->right);
-        num.push_back(root->val);
-        return num;
+    
+        void postOr(TreeNode* root, vector<int>& arr){
+        if(root==nullptr) return;
+
         
+        postOr(root->left,arr);
+        
+        postOr(root->right,arr);
+        arr.push_back(root->val);
+    }
+    vector<int> postorderTraversal(TreeNode* root) {
+        vector<int> arr;
+
+        postOr(root,arr);
+
+        return arr;
     }
 };
