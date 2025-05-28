@@ -1,28 +1,74 @@
 class Solution {
 public:
-    vector<vector<int>> buildList(const vector<vector<int>>& edges) {
-        vector<vector<int>> adj(edges.size() + 1);
-        for (auto &e : edges) {
-            adj[e[0]].push_back(e[1]);
-            adj[e[1]].push_back(e[0]);
+
+    int bfs(int start, vector<vector<int>>& adjList, int k) {
+        if (k == 0) return 1;
+
+        unordered_set<int> visited;
+        queue<int> q;
+        q.push(start);
+        visited.insert(start);
+
+        int level = 0, nodesReached = 1;
+
+        while (!q.empty() && level < k) {
+            int size = q.size();
+            for (int i = 0; i < size; ++i) {
+                int node = q.front(); q.pop();
+                for (int neighbor : adjList[node]) {
+                    if (visited.count(neighbor) == 0) {
+                        visited.insert(neighbor);
+                        q.push(neighbor);
+                        ++nodesReached;
+                    }
+                }
+            }
+            ++level;
         }
-        return adj;
-    }
-    
-    int dfs(const vector<vector<int>>& adj, int u, int p, int k) {
-        if (k < 0) return 0;
-        int cnt = 1;
-        for (int v : adj[u])
-            if (v != p) cnt += dfs(adj, v, u, k-1);
-        return cnt;
+
+        return nodesReached;
     }
     vector<int> maxTargetNodes(vector<vector<int>>& edges1, vector<vector<int>>& edges2, int k) {
-         auto adj1 = buildList(edges1), adj2 = buildList(edges2);
-        int n = adj1.size(), m = adj2.size(), maxiB = 0;
-        vector<int> res(n);
+        int n = 0, m = 0;
+        for (auto& e : edges1) {
+            n = max(n, max(e[0], e[1]));
+        }
+        n++;
 
-        for (int i = 0; i < m; i++) maxiB = max(maxiB, dfs(adj2, i, -1, k - 1));
-        for (int i = 0; i < n; i++) res[i] = dfs(adj1, i, -1, k) + maxiB;
-        return res;
+        for (auto& e : edges2) {
+            m = max(m, max(e[0], e[1]));
+        }
+        m++;
+
+        vector<vector<int>> adjList1(n), adjList2(m);
+
+        for (auto& e : edges1) {
+            adjList1[e[0]].push_back(e[1]);
+            adjList1[e[1]].push_back(e[0]);
+        }
+
+        for (auto& e : edges2) {
+            adjList2[e[0]].push_back(e[1]);
+            adjList2[e[1]].push_back(e[0]);
+        }
+
+        vector<int> path1(n);
+        for (int i = 0; i < n; ++i) {
+            path1[i] = bfs(i, adjList1, k);
+        }
+
+        int maxFound = 0;
+        if (k > 0) {
+            for (int i = 0; i < m; ++i) {
+                int count = bfs(i, adjList2, k - 1);
+                maxFound = max(maxFound, count);
+            }
+        }
+
+        for (int i = 0; i < n; ++i) {
+            path1[i] += maxFound;
+        }
+
+        return path1; 
     }
 };
