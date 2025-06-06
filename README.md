@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/akap-04/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/akap-04/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/akap-04/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0419-battleships-in-a-board](https://github.com/akap-04/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0485-max-consecutive-ones](https://github.com/akap-04/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/akap-04/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/akap-04/leetcode/tree/master/0500-keyboard-row) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akap-04/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/akap-04/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/akap-04/leetcode/tree/master/0386-lexicographical-numbers) |
+| [0419-battleships-in-a-board](https://github.com/akap-04/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0547-number-of-provinces](https://github.com/akap-04/leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akap-04/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/akap-04/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/akap-04/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/akap-04/leetcode/tree/master/0054-spiral-matrix) |
+| [0419-battleships-in-a-board](https://github.com/akap-04/leetcode/tree/master/0419-battleships-in-a-board) |
 | [1036-rotting-oranges](https://github.com/akap-04/leetcode/tree/master/1036-rotting-oranges) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/akap-04/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/akap-04/leetcode/tree/master/2411-spiral-matrix-iv) |
