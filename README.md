@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/akap-04/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/akap-04/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/akap-04/leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/akap-04/leetcode/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akap-04/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akap-04/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akap-04/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/akap-04/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/akap-04/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/akap-04/leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/akap-04/leetcode/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/akap-04/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/akap-04/leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akap-04/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/akap-04/leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/akap-04/leetcode/tree/master/0547-number-of-provinces) |
 | [2793-count-the-number-of-complete-components](https://github.com/akap-04/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Search Tree
@@ -523,4 +526,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/akap-04/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/akap-04/leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
