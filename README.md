@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/akap-04/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/akap-04/leetcode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akap-04/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/akap-04/leetcode/tree/master/0542-01-matrix) |
 | [0729-my-calendar-i](https://github.com/akap-04/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/akap-04/leetcode/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/akap-04/leetcode/tree/master/0733-flood-fill) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/akap-04/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/akap-04/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0416-partition-equal-subset-sum](https://github.com/akap-04/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/akap-04/leetcode/tree/master/0542-01-matrix) |
 | [2262-solving-questions-with-brainpower](https://github.com/akap-04/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2755-extra-characters-in-a-string](https://github.com/akap-04/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/akap-04/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/akap-04/leetcode/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/akap-04/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/akap-04/leetcode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/akap-04/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/akap-04/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/akap-04/leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/akap-04/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/akap-04/leetcode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/akap-04/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/akap-04/leetcode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/akap-04/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/akap-04/leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akap-04/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/akap-04/leetcode/tree/master/0733-flood-fill) |
