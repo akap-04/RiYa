@@ -19,7 +19,7 @@ public:
        int n=grid.size(),m=grid[0].size();
        vector<vector<int>> vis(n,vector<int>(m,0));
 
-        for(int j=0;j<m;j++){
+                for(int j=0;j<m;j++){
             if(!vis[0][j] && grid[0][j]==1){
                 dfs(0,j,grid,vis);
             }
