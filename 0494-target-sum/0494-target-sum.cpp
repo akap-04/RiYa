@@ -25,7 +25,7 @@ public:
         int total=0;
         for(auto &it:nums)total+=it;
 
-       // if(total-d || (total-d)%2) return 0;
+        //if(total-d || (total-d)%2) return 0;
         if (total < abs(d) || (total + d) % 2 != 0) return 0;
         int subsetSum = (total + d) / 2;
         return findpaths(nums,subsetSum);
