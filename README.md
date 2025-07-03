@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/akap-04/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/akap-04/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/akap-04/leetcode/tree/master/2155-find-missing-observations) |
+| [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/akap-04/leetcode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2262-solving-questions-with-brainpower](https://github.com/akap-04/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/akap-04/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/akap-04/leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/akap-04/leetcode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/akap-04/leetcode/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/akap-04/leetcode/tree/master/0768-partition-labels) |
+| [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/akap-04/leetcode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akap-04/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2681-put-marbles-in-bags](https://github.com/akap-04/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/akap-04/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
