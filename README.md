@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/akap-04/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/akap-04/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/akap-04/leetcode/tree/master/0020-valid-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/akap-04/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/akap-04/leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/akap-04/leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/akap-04/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/akap-04/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akap-04/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akap-04/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/akap-04/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/akap-04/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/akap-04/leetcode/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/akap-04/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/akap-04/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/akap-04/leetcode/tree/master/0494-target-sum) |
 | [1022-unique-paths-iii](https://github.com/akap-04/leetcode/tree/master/1022-unique-paths-iii) |
 <!---LeetCode Topics End-->
