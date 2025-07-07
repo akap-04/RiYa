@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/akap-04/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akap-04/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/akap-04/leetcode/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/akap-04/leetcode/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akap-04/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akap-04/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/akap-04/leetcode/tree/master/0169-majority-element) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/akap-04/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akap-04/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/akap-04/leetcode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/akap-04/leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/akap-04/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/akap-04/leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/akap-04/leetcode/tree/master/0051-n-queens) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/akap-04/leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/akap-04/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/akap-04/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/akap-04/leetcode/tree/master/0063-unique-paths-ii) |
@@ -640,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/akap-04/leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/akap-04/leetcode/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/akap-04/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/akap-04/leetcode/tree/master/0494-target-sum) |
