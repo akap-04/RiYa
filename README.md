@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/akap-04/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/akap-04/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/akap-04/leetcode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/akap-04/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/akap-04/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/akap-04/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/akap-04/leetcode/tree/master/0063-unique-paths-ii) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/akap-04/leetcode/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/akap-04/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/akap-04/leetcode/tree/master/0494-target-sum) |
 | [1022-unique-paths-iii](https://github.com/akap-04/leetcode/tree/master/1022-unique-paths-iii) |
