@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/akap-04/leetcode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akap-04/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/akap-04/leetcode/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/akap-04/leetcode/tree/master/0695-max-area-of-island) |
 | [0729-my-calendar-i](https://github.com/akap-04/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/akap-04/leetcode/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/akap-04/leetcode/tree/master/0733-flood-fill) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/akap-04/leetcode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/akap-04/leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akap-04/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/akap-04/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/akap-04/leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/akap-04/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/akap-04/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/akap-04/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/akap-04/leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/akap-04/leetcode/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/akap-04/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/akap-04/leetcode/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/akap-04/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/akap-04/leetcode/tree/master/1022-unique-paths-iii) |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/akap-04/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/akap-04/leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akap-04/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/akap-04/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/akap-04/leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/akap-04/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/akap-04/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -600,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/akap-04/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/akap-04/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/akap-04/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/akap-04/leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/akap-04/leetcode/tree/master/0801-is-graph-bipartite) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/akap-04/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/akap-04/leetcode/tree/master/1073-number-of-enclaves) |
