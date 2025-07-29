@@ -675,4 +675,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/akap-04/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/akap-04/leetcode/tree/master/0494-target-sum) |
 | [1022-unique-paths-iii](https://github.com/akap-04/leetcode/tree/master/1022-unique-paths-iii) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/akap-04/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
