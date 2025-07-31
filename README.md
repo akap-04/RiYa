@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/akap-04/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/akap-04/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/akap-04/leetcode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/akap-04/leetcode/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/akap-04/leetcode/tree/master/0539-minimum-time-difference) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/akap-04/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akap-04/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/akap-04/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/akap-04/leetcode/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/akap-04/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/akap-04/leetcode/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/akap-04/leetcode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akap-04/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/akap-04/leetcode/tree/master/0542-01-matrix) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akap-04/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0506-relative-ranks](https://github.com/akap-04/leetcode/tree/master/0506-relative-ranks) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/akap-04/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/akap-04/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akap-04/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
