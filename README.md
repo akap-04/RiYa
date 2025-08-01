@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/akap-04/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/akap-04/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/akap-04/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/akap-04/leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/akap-04/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/akap-04/leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/akap-04/leetcode/tree/master/0075-sort-colors) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akap-04/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/akap-04/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/akap-04/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/akap-04/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/akap-04/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/akap-04/leetcode/tree/master/0064-minimum-path-sum) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/akap-04/leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/akap-04/leetcode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/akap-04/leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/akap-04/leetcode/tree/master/0678-valid-parenthesis-string) |
