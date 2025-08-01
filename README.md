@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/akap-04/leetcode/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/akap-04/leetcode/tree/master/0733-flood-fill) |
 | [0859-design-circular-deque](https://github.com/akap-04/leetcode/tree/master/0859-design-circular-deque) |
+| [0890-lemonade-change](https://github.com/akap-04/leetcode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/akap-04/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/akap-04/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/akap-04/leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/akap-04/leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/akap-04/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/akap-04/leetcode/tree/master/0768-partition-labels) |
+| [0890-lemonade-change](https://github.com/akap-04/leetcode/tree/master/0890-lemonade-change) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/akap-04/leetcode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akap-04/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2681-put-marbles-in-bags](https://github.com/akap-04/leetcode/tree/master/2681-put-marbles-in-bags) |
