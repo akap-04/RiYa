@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/akap-04/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/akap-04/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/akap-04/leetcode/tree/master/1813-maximum-erasure-value) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/akap-04/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/akap-04/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/akap-04/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/akap-04/leetcode/tree/master/2155-find-missing-observations) |
